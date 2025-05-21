@@ -1,8 +1,4 @@
----
 
-Bank System Project
-Grupe : 10
-Authors:
 
 Tasneem Hany Mohamed
 
