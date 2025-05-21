@@ -6,9 +6,6 @@ Authors:
 
 Tasneem Hany Mohamed
 
-Farida Mohamed
-
-Dina El-Husseini
 
 
 Project Overview:
