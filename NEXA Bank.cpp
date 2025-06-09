@@ -293,7 +293,7 @@ void viewTransactionHistory(const string& username)
 
 int main()
 {
-    int choice;
+    int choice = 0;
     string currentUser = "";
     double balance = 0;
     char input;
